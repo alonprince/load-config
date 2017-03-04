@@ -1,0 +1,29 @@
+{
+  "name": "load-config",
+  "version": "1.0.0",
+  "description": "Just like config function in Laravel",
+  "main": "dist/loadConfig.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonprince/load-config.git"
+  },
+  "keywords": [
+    "config",
+    "load-config"
+  ],
+  "author": "Phishing <alonprince@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonprince/load-config/issues"
+  },
+  "homepage": "https://github.com/alonprince/load-config#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.5",
+    "mocha": "^3.2.0",
+    "typescript": "^2.2.1"
+  }
+}
