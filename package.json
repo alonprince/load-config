@@ -1,6 +1,6 @@
 {
-  "name": "load-config",
-  "version": "0.0.1",
+  "name": "load-config-json",
+  "version": "0.0.2",
   "description": "Just like config function in Laravel",
   "main": "dist/loadConfig.js",
   "scripts": {
